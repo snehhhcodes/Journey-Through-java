@@ -43,5 +43,5 @@ It’s a daily reflection of everything I explore, structured and paced by me.
 ## Follow Me On! 🌐  
 [GitHub](https://github.com/snehhhcodes) | [LinkedIn](https://www.linkedin.com/in/)  
 
-Also diving into Java? Drop a ⭐ and let's `System.out.println("Progress");` together!  
+Also diving into Java? Smash that ⭐ and let's `System.out.println("Progress");` together!  
 Keep building, one class at a time!🔥
