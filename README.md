@@ -40,7 +40,7 @@ It’s a daily reflection of everything I explore, structured and paced by me.
 - Use this as a **reference log** or an **inspiration for your own journey**  
 - **Start where you are, and just keep coding!**
 
-## Follow Me On! 🌐  
+## Connect With Me 🌐  
 [GitHub](https://github.com/snehhhcodes) | [LinkedIn](https://www.linkedin.com/in/)  
 
 Also diving into Java? Smash that ⭐ and let's `System.out.println("Progress");` together!  
