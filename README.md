@@ -50,7 +50,7 @@ It’s a daily reflection of everything I explore, structured and paced by me.
 - **Start where you are, and just keep coding!**
 
 ## Connect With Me 🌐  
-[GitHub](https://github.com/snehhhcodes) | [LinkedIn](https://www.linkedin.com/in/)  
+[GitHub](https://github.com/snehhhcodes) | [LinkedIn](https://www.linkedin.com/in/iamsnehatiwari)  
 
 Also diving into Java? Smash that ⭐ and let's `System.out.println("Progress");` together!  
 Keep building, one class at a time!🔥
