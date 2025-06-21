@@ -4,25 +4,32 @@
 
 This repository is **my personal Java journal**, created to track everything I’m learning as I dive deeper into the Java ecosystem.
 
-I’m **logging my daily progress** with **notes, syntax breakdowns, code examples, and real-world practice problems**—from **core Java basics** to **OOP, exception handling, collections, file handling**, and beyond.
+I’m **logging my daily progress** by documenting the **topic I focused on, key concepts I learned, resources I used, questions I practiced, and detailed notes**—covering everything from **core Java basics to OOP, exception handling, collections and beyond**.
 
 It’s a daily reflection of everything I explore, structured and paced by me.
 
-## Daily Progress Tracker 📅
-<div align="center">
+<a name="pt"></a>
+## Progress Tracker 📅
+<div align="left">
   
-| **Day** | **Topic Covered**           | **Folder Link**     | 
-|---------|-----------------------------|---------------------|
-| 1       | ...                         | 📂 [Day 1](#)       |  
-| 2       | ...                         | 📂 [Day 2](#)       |
-| ...     | ...                         | ...                 | 
+| **Day** | **Focus**           | **Day** | **Focus**           |
+|---------|---------------------|---------|---------------------|
+| [Day 1](#day-1)       | Flowcharts – Concepts, Components & Practice Questions                 | [Day 2](#day-2)       | ...                 | 
 
 </div>  
 
-## Each Folder Contains 📂
- **Notes** → Key concepts and theory breakdown  
- **Code** → Syntax examples, practice questions, and exercises  
- **README.md** → Summary of concepts learned and key takeaways 
+<a name="day-1"></a>
+### Day 1: 
+**Today's Focus:** Flowcharts – Concepts, Components & Practice Questions
+
+**Details:**
+- Learned what a flowchart is and how it visually represents logic  
+- Studied flowchart components: Terminal, Input/Output, Process, Decision, Flowlines  
+- Practiced problem-solving by creating flowcharts and writing pseudocode for each  
+  *(problems based on arithmetic operations, conditions, averages, and quadratic equations)*
+
+**Link to work**: [View Notes (PDF)]()
+
 
 ## Resources Used 📚
 - **Websites**  
