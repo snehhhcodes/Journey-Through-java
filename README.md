@@ -28,7 +28,9 @@ It’s a daily reflection of everything I explore, structured and paced by me.
 - Practiced problem-solving by creating flowcharts and writing pseudocode for each  
   *(problems based on arithmetic operations, conditions, averages, and quadratic equations)*
 
-**Link to work**: [View Notes (PDF)]()
+**Link to work**: [View Notes (PDF)](./notes/Day1.pdf)
+
+[Progress Tracker](#pt)
 
 
 ## Resources Used 📚
